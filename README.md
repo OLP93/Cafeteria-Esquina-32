@@ -1,24 +1,18 @@
-# Digital Letter Sample
+# Esquina 32 · Web para cafetería de barrio
 
-Nombre del proyecto: "ejemplo carta digital". Solo deja el proyecto en blanco, con una página vacía que muestre únicamente el título "Ejemplo carta digital". No agregues funciones, secciones, estilos ni dependencias; lo editaré más adelante.
+Web de una página para una cafetería ficticia de Las Palmas de Gran Canaria: presenta carta, horario y ubicación, y permite reservar desde el móvil.
 
-This project was built with [Lovable](https://lovable.dev).
+## Qué incluye
+- Carta por categorías con precios
+- Galería, reseñas, horario y mapa con botón "Cómo llegar"
+- Tres formularios: reserva de mesa, ocasiones especiales (medio local o entero) y pedido para recoger
+- Enlaces a plataformas de reparto
+- Diseño responsive con menú móvil
 
-## Build with Lovable
+## Tecnologías
+React · TypeScript · TanStack Router · Tailwind CSS
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/7205d5b2-c339-4ddf-b052-534d4cdbdf56).
+## Estado
+Los formularios no guardan datos y los datos de contacto son marcadores.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+**Demo:** [pendiente]
