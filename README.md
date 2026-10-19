@@ -15,4 +15,4 @@ React · TypeScript · TanStack Router · Tailwind CSS
 ## Estado
 Los formularios no guardan datos y los datos de contacto son marcadores.
 
-**Demo:** [pendiente]
+**Proyecto publicado:** https://cafeteria-esquina-32.lovable.app
